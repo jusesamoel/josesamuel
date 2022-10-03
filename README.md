@@ -1,7 +1,7 @@
 ### Hello guys! Samuel here! ###
 
 - 🎓 Estudante da UNIFIP/Patos-PB
-- 🌱 Estudando Python
+- 🌱 Atualmente estudando Python
 
 <div>
   <a href="https://github.com/jusesamoel">
